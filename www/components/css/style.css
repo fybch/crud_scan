@@ -1,0 +1,15 @@
+span.input-group-text{
+  width:  200px;
+}
+.btn-mktg{
+  background-image: linear-gradient(to right, rgb(100, 100, 245),rgb(190, 98, 252)); 
+  color: black;
+}
+.btn-mkttg{
+   background-image: linear-gradient(to right, rgb(245, 187, 100),rgb(245, 120, 62)); 
+  color: black;
+}
+body{
+  background-image: linear-gradient(rgb(146, 255, 4), rgb(188, 243, 87));
+  color: rgb(223, 166, 82);
+}
