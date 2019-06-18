@@ -13,3 +13,6 @@ body{
   background-image: linear-gradient(rgb(146, 255, 4), rgb(188, 243, 87));
   color: rgb(223, 166, 82);
 }
+h3{
+  display: inline;
+}
