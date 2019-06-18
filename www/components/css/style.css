@@ -9,6 +9,10 @@ span.input-group-text{
    background-image: linear-gradient(to right, rgb(245, 187, 100),rgb(245, 120, 62)); 
   color: black;
 }
+.btn-mktttg{
+   background-image: linear-gradient(to right, rgb(248, 103, 103),rgb(226, 38, 38)); 
+  color: black;
+}
 body{
   background-image: linear-gradient(rgb(146, 255, 4), rgb(188, 243, 87));
   color: rgb(223, 166, 82);
